@@ -1,0 +1,24 @@
+.mesaenv/
+.venv/
+__pycache__/
+.pypyenv/
+.history/
+.vscode/
+lib/
+"Run Outputs"/
+Dissertation.py
+Equilibriumcheck.py
+get-pip.py
+"model 2.py"
+"model 4.py"
+"model3.py"
+"model.py"
+Model_v2_2.py
+Model_v2_1.py
+Model v2_1_numba.py
+Model v2_1_numba_copy.py
+nt.ipynb
+plotly_graphplots.py
+tryout.py
+tryout2.py
+tryout3.py
